@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ENVIAR E-MAIL",
+    "version": "4.0",
+    "description": "Envio de template para o E-mail outlook",
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+    "activeTab",
+    "downloads"
+    ]
+  }
+  
+  
